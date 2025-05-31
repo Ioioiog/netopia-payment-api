@@ -1,0 +1,11 @@
+{
+  "name": "netopia-payment-api",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "xml2js": "^0.5.0",
+    "@supabase/supabase-js": "^2.0.0"
+  }
+}
